@@ -8,3 +8,4 @@ Mais um linha de texto
 Nova linha, update remoto, update local.
 Nova linha
 Mais um linha de texto
+Nova mudança no arquivo
